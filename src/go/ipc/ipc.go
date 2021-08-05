@@ -13,7 +13,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/oov/aviutl_rampreview/src/go/ods"
+	"ZRamPreview/ods"
 )
 
 type IPC struct {
